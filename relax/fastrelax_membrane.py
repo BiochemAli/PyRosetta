@@ -1,8 +1,8 @@
 #
-#//  fastrelax.py
+#//  fastrelax_membrane.py
 #//  Pyrosetta_github
 #//
-#//  Created by A. Seltmann on 15.02.26.
+#//  Created by A. Seltmann on 23.02.26.
 #//
 
 #!/usr/bin/env python3
