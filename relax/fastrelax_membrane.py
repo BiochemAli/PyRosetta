@@ -52,5 +52,5 @@ relax.constrain_relax_to_start_coords(True)
 
 relax.apply(testPose)
 
-testPose.dump_pdb(f"{args.input_pdb[:-4]}_relaxed.pdb")
-print(f"Done! Saved as {args.input_pdb[:-4]}_relaxed.pdb")
+testPose.dump_pdb(f"{args.input_pdb[:-4]}_membrane_relaxed.pdb")
+print(f"Done! Saved as {args.input_pdb[:-4]}_membrane_relaxed.pdb")
