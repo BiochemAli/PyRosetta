@@ -37,7 +37,7 @@ testPose.assign(pose)
 print("Pose loaded")
 
 add_mem = AddMembraneMover(args.spanfile)
-apply.add_mem(pose)
+add_mem.apply(testPose)
 print("Added Membrane")
 
 mm = MoveMap()
